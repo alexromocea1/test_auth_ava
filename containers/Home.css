@@ -1,0 +1,53 @@
+.Home .lander {
+  padding: 80px 0;
+  text-align: center;
+}
+
+.Home .lander h1 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+
+.Home .lander p {
+  color: #999;
+}
+
+ol {
+  padding: 0;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+  padding: 7px 20px;
+}
+
+.optionsInput {
+  margin-left: 10px;
+}
+.input .QuestionInput {
+  font-weight: 600;
+}
+
+.dropdownlist {
+  border-radius: 5px;
+  margin-left: 10px;
+}
+.saveButton {
+  margin-left: 10px;
+  height: 30px;
+}
+
+.dropDownSecondList {
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 25px;
+}
+
+.buttonAddOptions {
+  margin-left: 10px;
+}
+
+.SaveTheQuestion {
+  margin-left: 10px;
+}
